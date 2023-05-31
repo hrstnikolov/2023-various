@@ -1,0 +1,18 @@
+class Rectangle(Shape)
+Make a class named Rectangle that is-a Shape.
+
+class Employee: def __init__(self, id, supervisor)
+class Employee has-a __init__ that takes self, id, and supervisor parameters.
+
+class Vehicle: def drive(self, distance)
+class Vehicle has-a function named drive that takes self and distance parameters.
+
+email_validator = EmailValidator()
+Set email_validator to an instance of class EmailValidator.
+
+publisher.get_context_data(**kwargs)
+From publisher, get the get_context_data method, and call it with parameters **kwargs.
+
+album.release_date = '2003-04-02'
+From album, get the release_date attribute, and set it to '2003-04-02'.
+
